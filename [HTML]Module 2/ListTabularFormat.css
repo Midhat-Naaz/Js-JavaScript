@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table,th,td{
+    border: 1px solid brown;
+
+}
+th{
+    padding: 14px;
+    height: 50px;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 24px;
+    right: 12px;
+}
+.image{
+    position: relative;
+    font-size: 20px;
+    height: 94px;
+    width: 60px;
+}
+.fas fa-user{
+    position: relative;
+    right: 12px;
+    font-size: 20px;
+}
+.list{
+    border: 3px solid brown;
+    position: absolute;
+    text-align: center;
+    align-content: center;
+    right: 35%;
+    top: 100px;
+}
